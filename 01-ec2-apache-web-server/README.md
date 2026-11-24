@@ -66,8 +66,16 @@ Successfully deployed a working website on an AWS EC2 Linux instance using Apach
 
 Screenshots
 
-Screenshots demonstrating the EC2 instance, Apache service, and working website will be added here.
 
-## Cleanup
+EC2 Instance Running
+![EC2 instance running](screenshots/01-ec2-instance.png)
+
+ Apache Service Running
+![Apache service active](screenshots/02-apache-running.png)
+
+Website Successfully Deployed
+![Working EC2 website](screenshots/03-working-website.png)
+
+ Cleanup
 
 Review and stop or terminate unused AWS resources after completing the practical to avoid unnecessary charges.

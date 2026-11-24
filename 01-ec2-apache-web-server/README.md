@@ -67,17 +67,13 @@ Successfully deployed a working website on an AWS EC2 Linux instance using Apach
 Screenshots
 
 
-EC2 Instance Running
+   EC2 Instance Running
     
-   EC2 instance running
-
- Apache Service Running
+  Apache Service Running
    
-   Apache service active
-
-Website Successfully Deployed
+  Website Successfully Deployed
               
-   Working EC2 website
+
 
  Cleanup
 

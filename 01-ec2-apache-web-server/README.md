@@ -69,15 +69,15 @@ Screenshots
 
 EC2 Instance Running
     
-     EC2 instance running
+   EC2 instance running
 
  Apache Service Running
    
-      Apache service active
+   Apache service active
 
 Website Successfully Deployed
               
-       Working EC2 website
+   Working EC2 website
 
  Cleanup
 

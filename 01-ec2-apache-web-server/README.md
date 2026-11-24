@@ -68,13 +68,13 @@ Screenshots
 
 
 EC2 Instance Running
-![EC2 instance running](screenshots/01-ec2-instance.png)
+ EC2 instance running
 
  Apache Service Running
-![Apache service active](screenshots/02-apache-running.png)
+ Apache service active
 
 Website Successfully Deployed
-![Working EC2 website](screenshots/03-working-website.png)
+ Working EC2 website
 
  Cleanup
 

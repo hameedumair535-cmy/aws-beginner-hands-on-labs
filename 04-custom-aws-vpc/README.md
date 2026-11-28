@@ -98,4 +98,14 @@ The EC2 instances were used for hands-on testing. The original test instance was
 
 Screenshots
 
-Screenshots of the VPC configuration, subnet configuration, route tables, EC2 instance, and successful connectivity tests added.
+ VPC Created
+
+ Public and Private Subnets
+
+ Public Route Table
+
+ Private Route Table
+
+ EC2 Instance in Public Subnet
+
+ Network Connectivity Tests
